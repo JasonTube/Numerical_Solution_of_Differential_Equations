@@ -1,0 +1,3 @@
+main_problem4_Cauchy.m是第一个主函数，是采用回溯依赖区间，从依赖区间出发求解的Lax-Wendroff格式
+
+main_problem4_DirichletBC.m是第二个主函数，是验证格式阶数时使用的例子，在一个固定区间上求解
