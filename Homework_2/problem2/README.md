@@ -1,0 +1,3 @@
+main_problem2.m是主函数，修改第18行代码中的最后一个参数可以在Crank-Nicolson方法和BW格式之间进行切换
+
+bookcode_crank.m是教材代码，在后面用来验证了报告中的problem2的最后一节叙述
